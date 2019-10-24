@@ -197,4 +197,3 @@ public class SalaryCalcjunior implements ActionListener{
         
     }
     
-
